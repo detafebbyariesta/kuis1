@@ -1,6 +1,7 @@
 # kuis1
 
-A new Flutter project.
+![ss](https://user-images.githubusercontent.com/70737655/111065350-c6a7d180-84eb-11eb-98b7-b873f248f3bb.jpg)
+
 
 ## Getting Started
 
